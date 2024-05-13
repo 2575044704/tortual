@@ -1,5 +1,7 @@
 # tortual 
 由于中国屏蔽了github外网，所以不能直接填github地址
+--------------
+图文教程
 # 1.点击右上角迁移项目
 ![image](https://github.com/2575044704/tortual/assets/19410065/88b06b42-1b59-42df-bbb4-d85facb1638c)
 
